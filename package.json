@@ -1,0 +1,20 @@
+{
+  "name": "web-design",
+  "version": "0.0.1",
+  "dependencies": {
+    "angular": "1.6.6",
+    "mocha": "^1.16.2"
+  },
+  "scripts": {
+    "test": "mocha",
+    "start": "node server.js"
+  },
+  "main": "server.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "author": "Danielle Allan",
+  "license": "ISC",
+  "description": ""
+}
